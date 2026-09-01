@@ -10,6 +10,7 @@ public class FIrstspringprojectApplication {
 		SpringApplication.run(FIrstspringprojectApplication.class, args);
 		System.out.println("Welcome to SpringBoot");
 		System.out.println("Working on Feature Branch");
+		System.out.println("Merging branche");
 		
 	}
 
